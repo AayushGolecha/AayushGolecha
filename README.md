@@ -12,7 +12,7 @@ I am optimistic, confident, and believe in learning and not giving up easily. Pa
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Puja-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-golecha-a2882a169/) [![Mail Badge](https://img.shields.io/badge/-@puja_2481-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/aayushj_aj/) [![Mail Badge](https://img.shields.io/badge/-puja-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ayushj.aj23@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Aayush-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-golecha-a2882a169/) [![Mail Badge](https://img.shields.io/badge/-@aayushj_aj-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/aayushj_aj/) [![Mail Badge](https://img.shields.io/badge/-aayush-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ayushj.aj23@gmail.com) 
 
 
 
