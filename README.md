@@ -23,7 +23,7 @@ I am optimistic, confident, and believe in learning and not giving up easily. Pa
 <details>
  
  ### Portfolio
- [![image](https://user-images.githubusercontent.com/56734293/129670053-8fbafbb4-c8cf-439b-a7c6-ce14c66c5b27.png)](https://aayushgolecha.github.io/Portfolio/ "Click to Watch")
+ [![image](https://github.com/AayushGolecha/Portfolio/blob/main/img/main.PNG?raw=true)](https://aayushgolecha.github.io/Portfolio/ "Click to Watch")
 
 </details>
 
