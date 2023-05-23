@@ -6,7 +6,7 @@ Currently, I am pursuing B.Tech CSE from Lovely Professional University and my s
 I have done quite good number of projects and certifications that enhance my skills and knowledge in the particular technology.
 I am optimistic, confident, and believe in learning and not giving up easily. Passionate towards Cyber Security. Love to play with machines.
 
-- Languages - Java, HTML, CSS, Javascript.
+- Languages - Java, HTML, CSS, SQL.
 - Tools used - Office365, Virtualbox.
 - Operating System - Windows 10, Kali Linux.
 
