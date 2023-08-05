@@ -2,7 +2,7 @@
 
 ## Believe in your heart that you're meant to live a life full of passion, purpose, magic, and miracles"
 
-Currently, I am pursuing B.Tech CSE from Lovely Professional University and my specialization is in Cyber Security. 
+I have completed my B.Tech(CSE) from Lovely Professional University and my specialization is in Cyber Security. 
 I have done quite good number of projects and certifications that enhance my skills and knowledge in the particular technology.
 I am optimistic, confident, and believe in learning and not giving up easily. Passionate towards Cyber Security. Love to play with machines.
 
@@ -12,7 +12,7 @@ I am optimistic, confident, and believe in learning and not giving up easily. Pa
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aayush-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-golecha-a2882a169/) [![Mail Badge](https://img.shields.io/badge/-@aayushj_aj-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/aayushj_aj/) [![Mail Badge](https://img.shields.io/badge/-aayush-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ayushj.aj23@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Aayush-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-golecha-a2882a169/) [![Instagram Badge](https://img.shields.io/badge/-@aayushj_aj-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/aayushj_aj/) [![Mail Badge](https://img.shields.io/badge/-aayush-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ayushj.aj23@gmail.com) 
 
 
 
