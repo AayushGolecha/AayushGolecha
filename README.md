@@ -4,9 +4,9 @@
 
 I have completed my B.Tech(CSE) from Lovely Professional University and my specialization is in Cyber Security. 
 I have done quite good number of projects and certifications that enhance my skills and knowledge in the particular technology.
-I am optimistic, confident, and believe in learning and not giving up easily. Passionate towards Cyber Security. Love to play with machines.
+I am optimistic, confident, and believe in learning and not giving up easily. Passionate towards Cyber Security and Web Development. Love to play with code.
 
-- Languages - Java, HTML, CSS, SQL.
+- Languages - Java, HTML, CSS, SQL, Javascript.
 - Tools used - Office365, Virtualbox.
 - Operating System - Windows 10, Kali Linux.
 
