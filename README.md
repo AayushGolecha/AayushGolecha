@@ -6,9 +6,9 @@ I have completed my B.Tech(CSE) from Lovely Professional University and my speci
 I have done quite good number of projects and certifications that enhance my skills and knowledge in the particular technology.
 I am optimistic, confident, and believe in learning and not giving up easily. Passionate towards Cyber Security and Web Development. Love to play with code.
 
-- Languages - HTML, CSS, SQL, Javascript.
+- Languages - HTML, CSS, Javascript, React JS, Tailwind CSS.
 - Tools used - Office365, Virtualbox.
-- Operating System - Windows 10, Kali Linux.
+- Operating System - Windows 10.
 
 :mailbox: Reach me out!
 
